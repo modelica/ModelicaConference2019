@@ -8,7 +8,7 @@ The Modelica Conference is the main event for users, library developers, tool ve
 
 In addition to paper presentations and poster sessions, the conference features several Modelica tutorials for beginners and advanced users, as well as industrial user presentations, vendor sessions, and an exhibition. The previous Modelica conference in 2017 in Prague, Czech Republic, was attended by more than 400 participants from all over the world, and we would like to welcome even more participants to this conference.
 
-More information is contained in the conference [flyer](files/Modelica_Flyer_A4_online.pdf)[(print)](files/Modelica_Flyer_A4_print.pdf)/[poster](files/Modelica_Poster_online.pdf)[(print)](files/Modelica_Poster_print.pdf). The first page is intended to be printed in larger format such as A3 as a poster. Please post at your bulletin board or by the coffee machine to promote and remind about the conference.
+More information is contained in the conference [flyer](files/Modelica_Flyer_A4_online.pdf) [(print)](files/Modelica_Flyer_A4_print.pdf)/[poster](files/Modelica_Poster_online.pdf) [(print)](files/Modelica_Poster_print.pdf). The first page is intended to be printed in larger format such as A3 as a poster. Please post at your bulletin board or by the coffee machine to promote and remind about the conference.
 
 We are looking forward to seeing you in Regensburg.
 
