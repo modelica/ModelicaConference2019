@@ -16,7 +16,7 @@ We are looking forward to seeing you in Regensburg.
 
 The conference program, book of abstracts and other information are available here:
 
-* Proceedings [(intro)](proceedings/html/index.html) [(LiU E-Press)](http://www.ep.liu.se/ecp/contents.asp?issue=157) [(zip)](https://github.com/modelica/ModelicaConference2019/releases/download/USB/Modelica2019-USB.zip)
+* Proceedings [(intro)](proceedings/html/index.html) [(LiU E-Press)](http://www.ep.liu.se/ecp/contents.asp?issue=157) [(zip)](https://github.com/modelica/ModelicaConference2019/releases/download/USB/Modelica2019Proceedings.zip)
 * [Book of Abstracts](proceedings/html/Modelica2019BookOfAbstracts.pdf)
 * [Conference Program](proceedings/html/Modelica2019Program.pdf)
 * [Sponsors and Exhibitors](proceedings/html/exhibitors.md)
