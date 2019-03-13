@@ -28,9 +28,9 @@ The conference will take place at Ostbayerische Technische Hochschule (Eastbavar
 ![Venue](images/venue.jpg)
 
 _Venue Address_
-[OTH Regensburg](https://www.oth-regensburg.de/en.html)\
-Seybothstr. 2\
-93053 Regensburg\
+[OTH Regensburg](https://www.oth-regensburg.de/en.html)<br />
+Seybothstr. 2<br />
+93053 Regensburg<br />
 Germany
 
 # Scope of the Conference
