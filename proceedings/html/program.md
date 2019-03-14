@@ -1,4 +1,5 @@
-<table style="overflow: scroll;">
+<div style="overflow-x:auto;">
+<table>
 <colgroup><col style="width: 5em;">
 <col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;">
 <col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;">
@@ -123,8 +124,9 @@
 <td colspan="12" style="background-color: lightgray;">Welcome reception</td>
 <td></td></tr>
 </table><br>
-
-<table style="overflow-x: scroll;">
+</div>
+<div style="overflow-x:auto;">
+<table>
 <colgroup><col style="width: 5em;">
 <col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;">
 <col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;">
@@ -199,8 +201,9 @@
 <td colspan="12" style="background-color: lightgray;"><a href="sessions/sessionP.html">Poster Session</a></td>
 <td></td></tr>
 </table><br>
-
-<table style="overflow-x: scroll;">
+</div>
+<div style="overflow-x:auto;">
+<table>
 <colgroup><col style="width: 5em;">
 <col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;">
 <col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;">
@@ -246,8 +249,10 @@
 <td colspan="20" style="background-color: lightgray;">Conference Dinner at the Castle of Emmeram</td>
 <td></td></tr>
 </table><br>
+</div>
 
-<table style="overflow: scroll;">
+<div style="overflow-x:auto;">
+<table>
 <colgroup><col style="width: 5em;">
 <col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;">
 <col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;"><col style="width: 5em;">
@@ -323,3 +328,4 @@
 <td colspan="2"></td>
 <td></td></tr>
 </table><br>
+</div>
