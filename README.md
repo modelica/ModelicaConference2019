@@ -21,6 +21,7 @@ The conference program, book of abstracts and other information are available he
 * [Conference Program](proceedings/html/Modelica2019Program.pdf)
 * [Sponsors and Exhibitors](proceedings/html/exhibitors.md)
 * [Library Award Winners](award.md)
+* [Conference App](app.md)
 
 # Conference Venue
 
