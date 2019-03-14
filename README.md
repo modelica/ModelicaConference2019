@@ -53,8 +53,7 @@ The projects collaborate to design and maintan a set of coordinated standards fo
 
 The Modelica conference will bring together people using Modelica and/or other Modelica Association standards modeling, simulation, and control applications, Modelica language designers, tool vendors and library developers. The Modelica Conference provides Modelica users the opportunity to stay informed about the latest language, library, and tool developments, and to get in touch with people working on similar modeling problems. The conference will cover topics such as the following:
 
-• Multi-engineering modeling and simulation with free and commercial Modelica libraries (mechanics, electrical, hydraulics, thermal, fluid, media, chemical, building, automotive, aircraft, ...)
-
+* Multi-engineering modeling and simulation with free and commercial Modelica libraries (mechanics, electrical, hydraulics, thermal, fluid, media, chemical, building, automotive, aircraft, ...)
 * Automotive applications
 * Thermodynamic and energy systems applications
 * Mechatronics and robotics applications
