@@ -9,7 +9,7 @@ First Prize:
 Authors | Queralt Altes-Buch, Sylvain Quoilin, Vincent Lemort
 --- | ---
 Title | **Greenhouses**: A Modelica Library for the Simulation of Greenhouse Climate and Energy Systems
-Files | [Abstract](proceedings/html/abstracts/Modelica2019abstract5A2.pdf) [Full paper](proceedings/html/papers/Modelica2019paper5A2.pdf)   [Attachment](proceedings/html/attachments/Modelica2019attachment095.zip)
+Files | [(Abstract)](proceedings/html/abstracts/Modelica2019abstract5A2.pdf) [(Full paper)](proceedings/html/papers/Modelica2019paper5A2.pdf)   [(Attachment)](proceedings/html/attachments/Modelica2019attachment095.zip)
 
 ![Martin Otter (Chairman of MA), Queralt Altes-Buch, Anton Haumer (Conference Chair)](images/lib_award1.jpg)
 Martin Otter (Chairman of MA), Queralt Altes-Buch, Anton Haumer (Conference Chair)<br />
@@ -20,7 +20,7 @@ Second Prize:
 Authors | Jovan Brkic, Muaz Ceran, Mohamed Elmoghazy, Christian Kral
 --- | ---
 Title | Open Source **PhotoVoltaics** Library for Systemic Investigations
-Files | [Abstract](proceedings/html/abstracts/Modelica2019abstract1B1.pdf) [Full paper](proceedings/html/papers/Modelica2019paper1B1.pdf)   [Attachment](proceedings/html/attachments/Modelica2019attachment001.zip)
+Files | [(Abstract)](proceedings/html/abstracts/Modelica2019abstract1B1.pdf) [(Full paper)](proceedings/html/papers/Modelica2019paper1B1.pdf)   [(Attachment)](proceedings/html/attachments/Modelica2019attachment001.zip)
 
 ![Martin Otter (Chairman of MA), Christian Kral, Anton Haumer (Conference Chair)](images/lib_award2.jpg)
 Martin Otter (Chairman of MA), Christian Kral, Anton Haumer (Conference Chair)<br />
