@@ -3,7 +3,7 @@
 
 <ul>
 <li>Access the official version of the proceedings published by <a href="http://www.ep.liu.se/ecp/contents.asp?issue=157">Link&ouml;ping University Electronic Press</a></li>
-<li>Navigate the <a href="html/index.html">HTML version of the proceedings, accessing single papers</li>
+<li>Navigate the <a href="html/index.html">HTML version</a> of the proceedings, accessing single papers (the version on the conference USB-stick can be downloaded as a <a href="https://github.com/modelica/ModelicaConference2019/releases/download/USB/Modelica2019Proceedings.zip">zip-file</a></li>
 <li>Directly access the complete volume of the <a href="html/Modelica2019Proceedings.pdf">proceedings as a single pdf</a> file (97 MB)</li>
 <li>additionally, access the <a href="html/Modelica2019BookOfAbstracts.pdf">Book of Abstracts as a single pdf</a> file (11 MB)</li>
 </ul>
