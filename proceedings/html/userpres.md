@@ -2,7 +2,7 @@
 
 <p>On Monday 13:30-16:00 2 sessions of Industrial User Presentations related to the Modelica Association Projects are held:</p>
 
-<h3>Industrial User Presentations FMI + DCP + SPP</h3>
+<h3>Industrial User Presentations FMI + DCP + SSP</h3>
 <p>Room: S054</p>
 <table><tr><td>Presenters:</td><td>Torsten Blochwitz, Andreas Junghanns, Martin Krammer, Jochen K&ouml;hler</td></tr>
        <tr><td>Title:     </td><td>Overview over standards FMI + DCP + SSP</td></tr></table><br>
